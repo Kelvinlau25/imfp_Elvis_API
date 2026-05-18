@@ -88,3 +88,8 @@
 /home/runner/work/imfp_Elvis_API/imfp_Elvis_API/API/Web_API/bin/Debug/net8.0/Views/Web.config
 /home/runner/work/imfp_Elvis_API/imfp_Elvis_API/API/Web_API/obj/Debug/net8.0/Web_API.RazorAssemblyInfo.cache
 /home/runner/work/imfp_Elvis_API/imfp_Elvis_API/API/Web_API/obj/Debug/net8.0/Web_API.RazorAssemblyInfo.cs
+/home/runner/work/imfp_Elvis_API/imfp_Elvis_API/API/Web_API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/runner/work/imfp_Elvis_API/imfp_Elvis_API/API/Web_API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/runner/work/imfp_Elvis_API/imfp_Elvis_API/API/Web_API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/runner/work/imfp_Elvis_API/imfp_Elvis_API/API/Web_API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/runner/work/imfp_Elvis_API/imfp_Elvis_API/API/Web_API/obj/Debug/net8.0/tms-acl-api.MvcApplicationPartsAssemblyInfo.cs
