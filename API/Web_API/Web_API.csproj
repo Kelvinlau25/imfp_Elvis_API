@@ -45,11 +45,6 @@
     <EmbeddedResource Remove="Scripts\**" />
     <None Remove="Scripts\**" />
 
-    <Compile Remove="Views\**" />
-    <Content Remove="Views\**" />
-    <EmbeddedResource Remove="Views\**" />
-    <None Remove="Views\**" />
-
     <Compile Remove="Global.asax.cs" />
     <Compile Remove="Properties\AssemblyInfo.cs" />
     <None Remove="Global.asax" />

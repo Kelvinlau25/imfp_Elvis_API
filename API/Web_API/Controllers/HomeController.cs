@@ -2,14 +2,13 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace tms_acl_api.Controllers
 {
-    [ApiController]
-    [Route("api/[controller]")]
-    public class HomeController : ControllerBase
+    public class HomeController : Controller
     {
-        [HttpGet]
         public IActionResult Index()
         {
-            return Ok("API is running.");
+            ViewBag.Title = "Home Page";
+
+            return View();
         }
     }
 }

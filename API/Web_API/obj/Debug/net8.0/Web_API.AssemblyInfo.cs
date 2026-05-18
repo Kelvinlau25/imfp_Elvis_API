@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tms-acl-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3262215e2077473bd716e7f0188a564b0a3b0cc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ff73418e9d43939ac0fe1a1351f3ad19e41085")]
 [assembly: System.Reflection.AssemblyProductAttribute("tms-acl-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tms-acl-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
