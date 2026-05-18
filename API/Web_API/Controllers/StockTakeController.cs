@@ -1,37 +1,37 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Oracle.ManagedDataAccess.Client;
 using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Data;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
-using System.Net;
 using System.Net.Http;
 using System.Security.Claims;
-using System.Security.Cryptography;
 using System.Threading.Tasks;
-using System.Web.Http;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using tms_acl_api.Helpers;
 using tms_acl_api.Methods;
 using tms_acl_api.Models;
+using tms_acl_api.Infrastructure;
 
 namespace tms_acl_api.Controllers
 {
     [Authorize]
-    [RoutePrefix("api/StockTake")]
-    public class StockTakeController : ApiController
+    [Route("api/StockTake")]
+    [ApiController]
+    public class StockTakeController : ControllerBase
     {
-        CommonFunction db = new CommonFunction("", ConfigurationManager.ConnectionStrings["MSSQL_PFRIMFP_ELVIS"].ConnectionString);
+        CommonFunction db = new CommonFunction("", AppConfiguration.GetConnectionString("MSSQL_PFRIMFP_ELVIS"));
 
 
         #region NORMAL_CASE
         // get main screen stock take dropdown
         [AllowAnonymous]
         [HttpGet]
-        public async Task<IHttpActionResult> GetNormal()
+        public async Task<IActionResult> GetNormal()
         {
             try
             {
@@ -70,7 +70,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpGet]
         [Route("GetLotNo/LOTNO={pLOTNO}")]
-        public async Task<IHttpActionResult> GetLotNo(string pLOTNO)
+        public async Task<IActionResult> GetLotNo(string pLOTNO)
         {
             try
             {
@@ -79,7 +79,7 @@ namespace tms_acl_api.Controllers
                 List<OracleParameter> OraParam = new List<OracleParameter>();
                 OraParam.Add(new OracleParameter("@pLOTNO", pLOTNO));
                 OraParam.Add(new OracleParameter("SREF", OracleDbType.RefCursor, ParameterDirection.Output));
-                DataTable dt = await db.PSP_COMMON_ORA("PSP_API_GET_LOTDETAIL", System.Data.CommandType.StoredProcedure, OraParam, ConfigurationManager.ConnectionStrings["NEW_IMFP"].ConnectionString);
+                DataTable dt = await db.PSP_COMMON_ORA("PSP_API_GET_LOTDETAIL", System.Data.CommandType.StoredProcedure, OraParam, AppConfiguration.GetConnectionString("NEW_IMFP"));
 
                 if (dt != null && dt.Rows.Count > 0)
                 {
@@ -117,7 +117,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("Save_DE_SCAN_STK")]
-        public async Task<IHttpActionResult> Save_DE_SCAN_STK([FromBody]StockTake_ADD dto)
+        public async Task<IActionResult> Save_DE_SCAN_STK([FromBody]StockTake_ADD dto)
         {
             try
             {
@@ -190,7 +190,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpGet]
         [Route("ListingNormal")]
-        public async Task<IHttpActionResult> ListingNormal()
+        public async Task<IActionResult> ListingNormal()
         {
             try
             {
@@ -230,7 +230,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpGet]
         [Route("GetDetailNormal/DATE={pDATE}")]
-        public async Task<IHttpActionResult> GetDetailNormal(string pDATE)
+        public async Task<IActionResult> GetDetailNormal(string pDATE)
         {
             try
             {
@@ -280,7 +280,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("Delete_DE_SCAN_STK")]
-        public async Task<IHttpActionResult> Delete_DE_SCAN_STK([FromBody]StockTake_ADD dto)
+        public async Task<IActionResult> Delete_DE_SCAN_STK([FromBody]StockTake_ADD dto)
         {
             try
             {
@@ -351,7 +351,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpGet]
         [Route("GetExceptional")]
-        public async Task<IHttpActionResult> GetExceptional()
+        public async Task<IActionResult> GetExceptional()
         {
             try
             {
@@ -443,7 +443,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpGet]
         [Route("ListingExceptional")]
-        public async Task<IHttpActionResult> ListingExceptional()
+        public async Task<IActionResult> ListingExceptional()
         {
             try
             {
@@ -486,7 +486,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpGet]
         [Route("GetDetailExceptional/ID={pID}")]
-        public async Task<IHttpActionResult> GetDetailExceptional(int pID)
+        public async Task<IActionResult> GetDetailExceptional(int pID)
         {
             try
             {
@@ -531,7 +531,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("Save_DE_EXCEPTIONAL_STK")]
-        public async Task<IHttpActionResult> Save_DE_EXCEPTIONAL_STK([FromBody]DE_EXCEPTIONAL_STK_D dto)
+        public async Task<IActionResult> Save_DE_EXCEPTIONAL_STK([FromBody]DE_EXCEPTIONAL_STK_D dto)
         {
             try
             {
@@ -589,7 +589,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("Delete_DE_EXCEPTIONAL_STK")]
-        public async Task<IHttpActionResult> Delete_DE_EXCEPTIONAL_STK([FromBody]DE_EXCEPTIONAL_STK_D dto)
+        public async Task<IActionResult> Delete_DE_EXCEPTIONAL_STK([FromBody]DE_EXCEPTIONAL_STK_D dto)
         {
             try
             {

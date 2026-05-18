@@ -1,10 +1,9 @@
-﻿using System;
+using System;
 using System.Data;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Linq;
-using System.Web;
 using System.Security.Cryptography;
+using tms_acl_api.Infrastructure;
 
 namespace tms_acl_api.Models
 {
@@ -12,7 +11,7 @@ namespace tms_acl_api.Models
     {
         public string _SQLDMSConnectionString
         {
-            get { return ConfigurationManager.ConnectionStrings["PFR_ACL_MVC"].ConnectionString; }
+            get { return AppConfiguration.GetConnectionString("PFR_ACL_MVC"); }
         }
 
         public static List<T> ConvertToList<T>(DataTable dt)

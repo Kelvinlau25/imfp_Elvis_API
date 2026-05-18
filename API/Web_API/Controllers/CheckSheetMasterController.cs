@@ -1,44 +1,38 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
-using System.Collections.Specialized;
-using System.Configuration;
 using System.Data;
-using System.Data.Entity.Core.Metadata.Edm;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using System.IdentityModel.Tokens.Jwt;
 using System.IO;
 using System.Linq;
-using System.Net;
 using System.Net.Http;
 using System.Security.Claims;
-using System.Security.Cryptography;
 using System.Threading.Tasks;
-using System.Web.Configuration;
-using System.Web;
-using System.Web.Http;
+using System.Reflection;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using tms_acl_api.DAL;
 using tms_acl_api.Helpers;
 using tms_acl_api.Methods;
 using tms_acl_api.Models;
-using System.Runtime.Remoting.Messaging;
-using System.Data.Entity.Core.Common.CommandTrees.ExpressionBuilder;
-using System.Reflection;
+using tms_acl_api.Infrastructure;
 
 namespace tms_acl_api.Controllers
 {
     [Authorize]
-    [RoutePrefix("api/ChecksheetMaster")]
-    public class CheckSheetMasterController : ApiController
+    [Route("api/ChecksheetMaster")]
+    [ApiController]
+    public class CheckSheetMasterController : ControllerBase
     {
-        CommonFunction db = new CommonFunction("", ConfigurationManager.ConnectionStrings["MSSQL_PFRIMFP_ELVIS"].ConnectionString);
+        CommonFunction db = new CommonFunction("", AppConfiguration.GetConnectionString("MSSQL_PFRIMFP_ELVIS"));
 
         // get main screen checksheet dropdown
         [AllowAnonymous]
         [HttpGet]
         //[Route("GetChecksheet")]
-        public async Task<IHttpActionResult> GetChecksheet()
+        public async Task<IActionResult> GetChecksheet()
         {
             try
             {
@@ -89,7 +83,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpGet]
         [Route("GetMasterChecksheet/ID={pMM_MasterCS_H_ID}")]
-        public async Task<IHttpActionResult> Get(int pMM_MasterCS_H_ID)
+        public async Task<IActionResult> Get(int pMM_MasterCS_H_ID)
         {
             try
             {
@@ -139,7 +133,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpGet]
         [Route("Listing/checksheetID={pMM_MasterCS_H_ID}")]
-        public async Task<IHttpActionResult> Listing(int pMM_MasterCS_H_ID)
+        public async Task<IActionResult> Listing(int pMM_MasterCS_H_ID)
         {
             try
             {
@@ -229,7 +223,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpGet]
         [Route("GetFormat/checksheetID={pMM_MasterCS_H_ID}")]
-        public async Task<IHttpActionResult> GetFormat(int pMM_MasterCS_H_ID)
+        public async Task<IActionResult> GetFormat(int pMM_MasterCS_H_ID)
         {
             try
             {
@@ -432,13 +426,13 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("Save_DE_CS_DH")]
-        public async Task<IHttpActionResult> Save_DE_CS_DH([FromBody] Master_DE_CHECK_SHEET_DH dto)
+        public async Task<IActionResult> Save_DE_CS_DH([FromBody] Master_DE_CHECK_SHEET_DH dto)
         {
             try
             {
                 //var provider = await Request.Content.ReadAsMultipartAsync<InMemoryMultipartFormDataStreamProvider>(new InMemoryMultipartFormDataStreamProvider());
 
-                string location = HttpContext.Current.Request.UserHostAddress;
+                string location = HttpContext.Connection.RemoteIpAddress?.ToString() ?? "";
                 //DE_CUSTOM_CHECK_SHEET_DH dto = new DE_CUSTOM_CHECK_SHEET_DH();
                 //if (provider.FormData != null)
                 //{
@@ -506,9 +500,9 @@ namespace tms_acl_api.Controllers
 
                                         var fileName = random.Next().ToString() + "." + imageObject.Split('/')[1].Split(';')[0];
 
-                                        var livePath = HttpContext.Current.Server.MapPath("~/img/header/" + fileName);
+                                        var livePath = System.IO.Path.Combine(System.AppContext.BaseDirectory, "wwwroot", "img", "header", fileName);
 
-                                        if (Directory.Exists(HttpContext.Current.Server.MapPath("~/img/header/")))
+                                        if (Directory.Exists(System.IO.Path.Combine(System.AppContext.BaseDirectory, "wwwroot", "img", "header")))
                                         {
                                             using (FileStream fileStream = new FileStream(livePath, FileMode.Create))
                                             {
@@ -517,7 +511,7 @@ namespace tms_acl_api.Controllers
                                         }
                                         else
                                         {
-                                            Directory.CreateDirectory(HttpContext.Current.Server.MapPath("~/img/header/"));
+                                            Directory.CreateDirectory(System.IO.Path.Combine(System.AppContext.BaseDirectory, "wwwroot", "img", "header"));
 
 
                                             using (FileStream fileStream = new FileStream(livePath, FileMode.Create))
@@ -609,9 +603,9 @@ namespace tms_acl_api.Controllers
 
                                     var fileName = random.Next().ToString() + "." + imageObject.Split('/')[1].Split(';')[0];
 
-                                    var livePath = HttpContext.Current.Server.MapPath("~/img/attch/" + fileName);
+                                    var livePath = System.IO.Path.Combine(System.AppContext.BaseDirectory, "wwwroot", "img", "attch", fileName);
 
-                                    if (Directory.Exists(HttpContext.Current.Server.MapPath("~/img/attch/")))
+                                    if (Directory.Exists(System.IO.Path.Combine(System.AppContext.BaseDirectory, "wwwroot", "img", "attch")))
                                     {
                                         using (FileStream fileStream = new FileStream(livePath, FileMode.Create))
                                         {
@@ -620,7 +614,7 @@ namespace tms_acl_api.Controllers
                                     }
                                     else
                                     {
-                                        Directory.CreateDirectory(HttpContext.Current.Server.MapPath("~/img/attch/"));
+                                        Directory.CreateDirectory(System.IO.Path.Combine(System.AppContext.BaseDirectory, "wwwroot", "img", "attch"));
 
 
                                         using (FileStream fileStream = new FileStream(livePath, FileMode.Create))
@@ -671,9 +665,9 @@ namespace tms_acl_api.Controllers
 
                     //                var fileName = random.Next().ToString() + "." + imageObject.type.Split('/')[1];
 
-                    //                var livePath = HttpContext.Current.Server.MapPath("~/img/attch/" + fileName);
+                    //                var livePath = System.IO.Path.Combine(System.AppContext.BaseDirectory, "wwwroot", "img", "attch", fileName);
 
-                    //                if (Directory.Exists(HttpContext.Current.Server.MapPath("~/img/attch/")))
+                    //                if (Directory.Exists(System.IO.Path.Combine(System.AppContext.BaseDirectory, "wwwroot", "img", "attch")))
                     //                {
                     //                    using (FileStream fileStream = new FileStream(livePath, FileMode.Create))
                     //                    {
@@ -682,7 +676,7 @@ namespace tms_acl_api.Controllers
                     //                }
                     //                else
                     //                {
-                    //                    Directory.CreateDirectory(HttpContext.Current.Server.MapPath("~/img/attch/"));
+                    //                    Directory.CreateDirectory(System.IO.Path.Combine(System.AppContext.BaseDirectory, "wwwroot", "img", "attch"));
 
 
                     //                    using (FileStream fileStream = new FileStream(livePath, FileMode.Create))
@@ -818,22 +812,13 @@ namespace tms_acl_api.Controllers
                 // Remove any whitespace to prevent false positives.
                 uri = uri.Trim();
 
-                // Decode the base64 string.
+                // Decode the base64 string and verify it's non-empty.
                 byte[] imageBytes = Convert.FromBase64String(uri);
-
-                // Verify the bytes form a valid image.
-                using (var ms = new MemoryStream(imageBytes))
-                {
-                    using (var img = System.Drawing.Image.FromStream(ms))
-                    {
-                        // If we can create an Image object, it's a valid image.
-                        return true;
-                    }
-                }
+                return imageBytes.Length > 0;
             }
             catch
             {
-                // If any exception occurs, it's not a valid base64 image string.
+                // If any exception occurs, it's not a valid base64 string.
                 return false;
             }
         }
@@ -843,7 +828,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("Delete_DE_CS_DH")]
-        public async Task<IHttpActionResult> Delete_DE_CS_DH([FromBody] Master_DE_CHECK_SHEET_DH dto)
+        public async Task<IActionResult> Delete_DE_CS_DH([FromBody] Master_DE_CHECK_SHEET_DH dto)
         {
             try
             {
@@ -909,7 +894,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("Save_DE_CS_List")]
-        public async Task<IHttpActionResult> Save_DE_CS_List([FromBody] DE_CHECK_SHEET_MASTER_LST dto)
+        public async Task<IActionResult> Save_DE_CS_List([FromBody] DE_CHECK_SHEET_MASTER_LST dto)
         {
             try
             {
@@ -973,7 +958,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpGet]
         [Route("GetApproval/ChecksheetHeaderID={pMM_MasterCS_H_ID}/ChecksheetID={pDE_CUSTOM_CS_ID}")]
-        public async Task<IHttpActionResult> GetApproval(int pMM_MasterCS_H_ID, int pDE_CUSTOM_CS_ID)
+        public async Task<IActionResult> GetApproval(int pMM_MasterCS_H_ID, int pDE_CUSTOM_CS_ID)
         {
             try
             {
@@ -1149,7 +1134,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("Approve_Approval")]
-        public async Task<IHttpActionResult> Approve_Approval([FromBody] Master_DE_CHECK_SHEET_DH dto)
+        public async Task<IActionResult> Approve_Approval([FromBody] Master_DE_CHECK_SHEET_DH dto)
         {
             try
             {
@@ -1189,7 +1174,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("Reject_Approval")]
-        public async Task<IHttpActionResult> Reject_Approval([FromBody] Master_DE_CHECK_SHEET_DH dto)
+        public async Task<IActionResult> Reject_Approval([FromBody] Master_DE_CHECK_SHEET_DH dto)
         {
             try
             {

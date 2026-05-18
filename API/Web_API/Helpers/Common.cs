@@ -1,20 +1,17 @@
-﻿using Dapper;
+using Dapper;
 using Oracle.ManagedDataAccess.Client;
 using System;
 using System.Collections.Generic;
 using System.Data;
-using System.Data.SqlClient;
-using System.Linq;
+using Microsoft.Data.SqlClient;
 using System.Threading.Tasks;
-using System.Web;
-using System.Web.Mvc;
 using tms_acl_api.DAL;
 using tms_acl_api.Enum;
 using tms_acl_api.Interface;
 
 namespace tms_acl_api.Helpers
 {
-    public class CommonFunction : Controller,  IDAPPER_DAL
+    public class CommonFunction : IDAPPER_DAL
     {
         public CommonFunction(string uSERID = "",string vConnection_String = "")
         {

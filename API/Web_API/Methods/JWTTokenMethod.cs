@@ -1,22 +1,20 @@
-﻿using Microsoft.IdentityModel.Tokens;
+using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
-using System.Web;
+using tms_acl_api.Infrastructure;
 
 namespace tms_acl_api.Methods
 {
     public class JWTTokenMethod
     {
-        private static string securityCode = ConfigurationManager.AppSettings["JWTSecurityKey"].ToString();
-        private static string jwtTokenExpiryInMinutes = ConfigurationManager.AppSettings["JWTokenExpiryInMinutes"].ToString();
-        private static string jwtTokenIssuer = ConfigurationManager.AppSettings["JWTIssuer"].ToString();
-        private static string jwtTokenAudience = ConfigurationManager.AppSettings["JWTAudience"].ToString();
+        private static string securityCode => AppConfiguration.GetAppSetting("JWTSecurityKey");
+        private static string jwtTokenExpiryInMinutes => AppConfiguration.GetAppSetting("JWTokenExpiryInMinutes");
+        private static string jwtTokenIssuer => AppConfiguration.GetAppSetting("JWTIssuer");
+        private static string jwtTokenAudience => AppConfiguration.GetAppSetting("JWTAudience");
 
         public static string createToken(string username)
         {

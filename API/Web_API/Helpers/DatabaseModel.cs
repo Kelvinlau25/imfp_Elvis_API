@@ -1,12 +1,9 @@
 using System;
 using System.Collections.Generic;
-using System.Configuration;
-using System.Data.SqlClient;
-using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using System.Web;
+using Microsoft.Data.SqlClient;
 using Newtonsoft.Json;
 using web_app_template.Models.ConnectionString;
 

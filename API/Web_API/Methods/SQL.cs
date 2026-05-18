@@ -1,10 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data;
-using System.Data.SqlClient;
-using System.Linq;
+using Microsoft.Data.SqlClient;
 using System.Threading.Tasks;
-using System.Web;
 using tms_acl_api.Models;
 
 namespace tms_acl_api.Methods
