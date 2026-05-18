@@ -11,8 +11,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Expose configuration via static accessor (used by legacy static classes)
 AppConfiguration.Current = builder.Configuration;
 
-// Add controllers with Newtonsoft.Json support
-builder.Services.AddControllers()
+// Add controllers with views and Newtonsoft.Json support
+builder.Services.AddControllersWithViews()
     .AddNewtonsoftJson();
 
 // JWT authentication
@@ -60,6 +60,9 @@ app.UseCors();
 app.UseAuthentication();
 app.UseAuthorization();
 
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 app.MapControllers();
 
 app.Run();
