@@ -1,0 +1,1018 @@
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\obj\Debug\Web_API.csproj.CoreCompileInputs.cache
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\tms-acl-api.dll.config
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\tms-acl-api.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\tms-acl-api.pdb
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\csc.exe
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\csc.exe.config
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\csc.rsp
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\csi.exe
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\csi.exe.config
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\csi.rsp
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.AppContext.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Console.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\vbc.exe
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\vbc.exe.config
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\vbc.rsp
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Dapper.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Newtonsoft.Json.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Buffers.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Memory.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Net.Http.Formatting.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Numerics.Vectors.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Text.Encodings.Web.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Text.Json.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.ValueTuple.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.Helpers.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.Http.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.Http.WebHost.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.Mvc.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.Optimization.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.Razor.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.WebPages.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\WebGrease.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Dapper.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Buffers.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Memory.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Numerics.Vectors.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Text.Encodings.Web.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Text.Json.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.ValueTuple.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Newtonsoft.Json.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Net.Http.Formatting.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.Helpers.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.Http.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.Http.WebHost.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.Mvc.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.Optimization.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.Razor.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.WebPages.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\obj\Debug\Web_API.csproj.CopyComplete
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\obj\Debug\tms-acl-api.dll
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\obj\Debug\tms-acl-api.pdb
+C:\Users\muhammad_azham\Documents\Project\02 - Standard UI TMS\V1.0\Web API\Web_API\obj\Debug\Web_API.csprojAssemblyReference.cache
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\tms-acl-api.dll.config
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\tms-acl-api.pdb
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\csc.exe
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\csc.exe.config
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\csc.rsp
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\csi.exe
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\csi.exe.config
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\csi.rsp
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.AppContext.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Console.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\vbc.exe
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\vbc.exe.config
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\vbc.rsp
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Dapper.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Newtonsoft.Json.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Buffers.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Memory.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Net.Http.Formatting.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Numerics.Vectors.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Text.Encodings.Web.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Text.Json.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.Helpers.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.Http.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.Http.WebHost.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.Mvc.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.Optimization.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.Razor.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.WebPages.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\WebGrease.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Dapper.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Buffers.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Memory.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Numerics.Vectors.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Text.Encodings.Web.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Text.Json.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.ValueTuple.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Newtonsoft.Json.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Net.Http.Formatting.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.Helpers.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.Http.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.Http.WebHost.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.Mvc.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.Optimization.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.Razor.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.WebPages.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\obj\Debug\Web_API.csprojAssemblyReference.cache
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\obj\Debug\Web_API.csproj.CoreCompileInputs.cache
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\obj\Debug\Web_API.csproj.CopyComplete
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\obj\Debug\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\web api\Web API\Web API\Web_API\obj\Debug\tms-acl-api.pdb
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\obj\Debug\Web_API.csprojAssemblyReference.cache
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\obj\Debug\Web_API.csproj.CoreCompileInputs.cache
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\obj\Debug\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\obj\Debug\tms-acl-api.pdb
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\tms-acl-api.dll.config
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\tms-acl-api.pdb
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\csc.exe
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\csc.exe.config
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\csc.rsp
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\csi.exe
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\csi.exe.config
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\csi.rsp
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.AppContext.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Console.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\vbc.exe
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\vbc.exe.config
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\vbc.rsp
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Dapper.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Newtonsoft.Json.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Buffers.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Memory.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Net.Http.Formatting.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Numerics.Vectors.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Text.Encodings.Web.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Text.Json.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.Helpers.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.Http.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.Http.WebHost.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.Mvc.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.Optimization.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.Razor.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.WebPages.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\WebGrease.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Dapper.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Buffers.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Memory.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Numerics.Vectors.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Text.Encodings.Web.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Text.Json.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.ValueTuple.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Newtonsoft.Json.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Net.Http.Formatting.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.Helpers.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.Http.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.Http.WebHost.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.Mvc.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.Optimization.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.Razor.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.WebPages.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\backup2\Web API\Web_API\obj\Debug\Web_API.csproj.CopyComplete
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\tms-acl-api.dll.config
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\tms-acl-api.pdb
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\csc.exe
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\csc.exe.config
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\csc.rsp
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\csi.exe
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\csi.exe.config
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\csi.rsp
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.AppContext.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Console.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\vbc.exe
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\vbc.exe.config
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\vbc.rsp
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Dapper.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Newtonsoft.Json.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Buffers.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Memory.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Net.Http.Formatting.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Numerics.Vectors.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Text.Encodings.Web.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Text.Json.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.Helpers.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.Http.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.Http.WebHost.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.Mvc.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.Optimization.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.Razor.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.WebPages.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\WebGrease.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Dapper.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Buffers.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Memory.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Numerics.Vectors.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Text.Encodings.Web.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Text.Json.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.ValueTuple.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Newtonsoft.Json.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Net.Http.Formatting.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.Helpers.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.Http.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.Http.WebHost.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.Mvc.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.Optimization.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.Razor.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.WebPages.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\obj\Debug\Web_API.csprojAssemblyReference.cache
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\obj\Debug\Web_API.csproj.CoreCompileInputs.cache
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\obj\Debug\Web_API.csproj.CopyComplete
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\obj\Debug\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web API\Web_API\obj\Debug\tms-acl-api.pdb
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\tms-acl-api.dll.config
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\tms-acl-api.pdb
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\csc.exe
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\csc.exe.config
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\csc.rsp
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\csi.exe
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\csi.exe.config
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\csi.rsp
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.AppContext.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Console.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\vbc.exe
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\vbc.exe.config
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\vbc.rsp
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Dapper.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Newtonsoft.Json.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Buffers.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Memory.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Net.Http.Formatting.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Numerics.Vectors.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Text.Encodings.Web.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Text.Json.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.Helpers.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.Http.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.Http.WebHost.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.Mvc.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.Optimization.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.Razor.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.WebPages.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\WebGrease.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Dapper.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Buffers.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Memory.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Numerics.Vectors.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Text.Encodings.Web.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Text.Json.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.ValueTuple.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Newtonsoft.Json.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Net.Http.Formatting.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.Helpers.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.Http.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.Http.WebHost.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.Mvc.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.Optimization.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.Razor.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.WebPages.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\obj\Debug\Web_API.csproj.CoreCompileInputs.cache
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\obj\Debug\Web_API.csproj.CopyComplete
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\obj\Debug\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\obj\Debug\tms-acl-api.pdb
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\EntityFramework.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\EntityFramework.SqlServer.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Oracle.ManagedDataAccess.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\EntityFramework.xml
+C:\Users\nur_anis_nabila\Desktop\Web API\Web_API\bin\EntityFramework.SqlServer.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\tms-acl-api.dll.config
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\tms-acl-api.pdb
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\csc.exe
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\csc.exe.config
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\csc.rsp
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\csi.exe
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\csi.exe.config
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\csi.rsp
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.AppContext.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Console.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\vbc.exe
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\vbc.exe.config
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\vbc.rsp
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Dapper.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\EntityFramework.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\EntityFramework.SqlServer.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Newtonsoft.Json.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Oracle.ManagedDataAccess.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Buffers.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Memory.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Net.Http.Formatting.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Numerics.Vectors.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Text.Encodings.Web.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Text.Json.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.Helpers.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.Http.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.Http.WebHost.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.Mvc.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.Optimization.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.Razor.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.WebPages.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\WebGrease.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Dapper.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\EntityFramework.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\EntityFramework.SqlServer.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Buffers.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Memory.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Numerics.Vectors.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Text.Encodings.Web.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Text.Json.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.ValueTuple.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Newtonsoft.Json.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Net.Http.Formatting.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.Helpers.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.Http.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.Http.WebHost.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.Mvc.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.Optimization.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.Razor.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.WebPages.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\obj\Debug\Web_API.csproj.CoreCompileInputs.cache
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\obj\Debug\Web_API.csproj.CopyComplete
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\obj\Debug\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Desktop\tasks\kahyan\Web API\Web_API\obj\Debug\tms-acl-api.pdb
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\tms-acl-api.dll.config
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\tms-acl-api.pdb
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\csc.exe
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\csc.exe.config
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\csc.rsp
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\csi.exe
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\csi.exe.config
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\csi.rsp
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.AppContext.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Console.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\vbc.exe
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\vbc.exe.config
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\vbc.rsp
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Dapper.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\EntityFramework.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\EntityFramework.SqlServer.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Newtonsoft.Json.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Oracle.ManagedDataAccess.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Buffers.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Memory.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Net.Http.Formatting.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Numerics.Vectors.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Text.Encodings.Web.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Text.Json.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.Helpers.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.Http.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.Http.WebHost.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.Mvc.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.Optimization.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.Razor.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.WebPages.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\WebGrease.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Dapper.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\EntityFramework.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\EntityFramework.SqlServer.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Buffers.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Memory.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Numerics.Vectors.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Text.Encodings.Web.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Text.Json.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.ValueTuple.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Newtonsoft.Json.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Net.Http.Formatting.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.Helpers.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.Http.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.Http.WebHost.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.Mvc.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.Optimization.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.Razor.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.WebPages.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\obj\Debug\Web_API.csprojAssemblyReference.cache
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\obj\Debug\Web_API.csproj.CoreCompileInputs.cache
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\obj\Debug\Web_API.csproj.CopyComplete
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\obj\Debug\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\Web API\Web_API\obj\Debug\tms-acl-api.pdb
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\tms-acl-api.dll.config
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\tms-acl-api.pdb
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\csc.exe
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\csc.exe.config
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\csc.rsp
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\csi.exe
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\csi.exe.config
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\csi.rsp
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.AppContext.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Console.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.IO.Compression.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.Claims.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\vbc.exe
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\vbc.exe.config
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\vbc.rsp
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\VBCSCompiler.exe
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Dapper.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\EntityFramework.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\EntityFramework.SqlServer.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Newtonsoft.Json.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Oracle.ManagedDataAccess.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Buffers.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Memory.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Net.Http.Formatting.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Numerics.Vectors.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Text.Encodings.Web.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Text.Json.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.ValueTuple.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Helpers.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Http.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Http.WebHost.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Mvc.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Optimization.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Razor.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.WebPages.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.WebPages.Razor.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\WebGrease.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Dapper.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\EntityFramework.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\EntityFramework.SqlServer.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Buffers.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Memory.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Numerics.Vectors.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Text.Encodings.Web.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Text.Json.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.ValueTuple.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Newtonsoft.Json.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Net.Http.Formatting.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Helpers.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Http.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Http.WebHost.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Mvc.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Optimization.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Razor.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.WebPages.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.WebPages.Razor.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\obj\Debug\Web_API.csproj.AssemblyReference.cache
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\obj\Debug\Web_API.csproj.CoreCompileInputs.cache
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\obj\Debug\Web_API.csproj.Up2Date
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\obj\Debug\tms-acl-api.dll
+C:\Users\nur_anis_nabila\Documents\GitHub\PFR_iMFP_eLVIs_API\API\Web_API\obj\Debug\tms-acl-api.pdb
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\tms-acl-api.dll.config
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\tms-acl-api.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\tms-acl-api.pdb
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\csc.exe
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\csc.exe.config
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\csc.rsp
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\csi.exe
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\csi.exe.config
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\csi.rsp
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.AppContext.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Collections.Immutable.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Console.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.IO.Compression.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.IO.FileSystem.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.IO.Pipes.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Reflection.Metadata.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.AccessControl.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.Claims.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Security.Principal.Windows.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.ValueTuple.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Xml.XPath.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\vbc.exe
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\vbc.exe.config
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\vbc.rsp
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\VBCSCompiler.exe
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\roslyn\VBCSCompiler.exe.config
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Dapper.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\EntityFramework.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\EntityFramework.SqlServer.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.Logging.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.Tokens.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.Web.Infrastructure.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Newtonsoft.Json.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Oracle.ManagedDataAccess.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Buffers.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Memory.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Net.Http.Formatting.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Numerics.Vectors.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Text.Encodings.Web.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Text.Json.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Threading.Tasks.Extensions.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.ValueTuple.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Helpers.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Http.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Http.WebHost.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Mvc.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Optimization.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Razor.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.WebPages.Deployment.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.WebPages.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.WebPages.Razor.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\WebGrease.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Dapper.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\EntityFramework.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\EntityFramework.SqlServer.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.Logging.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.IdentityModel.Tokens.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Buffers.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Memory.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Numerics.Vectors.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Text.Encodings.Web.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Text.Json.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Threading.Tasks.Extensions.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.ValueTuple.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Newtonsoft.Json.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Net.Http.Formatting.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Helpers.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Http.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Http.WebHost.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Mvc.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Optimization.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.Razor.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.WebPages.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.WebPages.Deployment.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\System.Web.WebPages.Razor.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\obj\Debug\Web_API.csproj.AssemblyReference.cache
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\obj\Debug\Web_API.csproj.CoreCompileInputs.cache
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\obj\Debug\Web_API.csproj.Up2Date
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\obj\Debug\tms-acl-api.dll
+C:\NET8 PROJECT\PFR_iMFP_eLVIs_API\API\Web_API\obj\Debug\tms-acl-api.pdb
