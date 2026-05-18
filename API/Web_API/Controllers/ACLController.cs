@@ -1,35 +1,34 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Data;
-using System.Data.SqlClient;
+using Microsoft.Data.SqlClient;
 using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
-using System.Net;
 using System.Net.Http;
 using System.Security.Claims;
-using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
-using System.Web.Http;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using tms_acl_api.Helpers;
 using tms_acl_api.Methods;
 using tms_acl_api.Models;
 using web_app_template.Models;
+using tms_acl_api.Infrastructure;
 
 namespace tms_acl_api.Controllers
 {
     [Authorize]
-    [RoutePrefix("api/ACL")]
-    public class ACLController : ApiController
+    [Route("api/ACL")]
+    [ApiController]
+    public class ACLController : ControllerBase
     {
-        string vConn = new Common()._SQLDMSConnectionString.ToString();
+        string vConn = AppConfiguration.GetConnectionString("PFR_ACL_MVC");
 
         //[AllowAnonymous]
         //[HttpPost]
         //[Route("Login")]
-        //public async Task<IHttpActionResult> Post([FromBody]LoginModel dto)
+        //public async Task<IActionResult> Post([FromBody]LoginModel dto)
         //{
         //    DateTime _startDateTime = DateTime.Now;
         //    try
@@ -56,7 +55,7 @@ namespace tms_acl_api.Controllers
         //                string newToken = JWTTokenMethod.createToken(dto.LoginID);
         //                string newRefreshToken = JWTTokenMethod.createRefreshToken();
 
-        //                _ = int.TryParse(ConfigurationManager.AppSettings["JWRefreshTokenExpiryInMinutes"].ToString(), out int _refreshTokenExpiryInMinutes);
+        //                _ = int.TryParse(AppConfiguration.GetAppSetting("JWRefreshTokenExpiryInMinutes").ToString(), out int _refreshTokenExpiryInMinutes);
         //                int isAdded = await SQL.insertSQL("insert into ACL_JWT_TOKEN (JWT_TOKEN, JWT_REFRESH_TOKEN, JWT_REFRESH_TOKEN_EXPIRY) VALUES ('" + newToken + "','" + newRefreshToken + "','" + DateTime.Now.AddMinutes(_refreshTokenExpiryInMinutes).ToString("MM/dd/yyyy HH:mm:ss tt") + "')", CommandType.Text, null);
 
         //                if(isAdded <= 0)
@@ -95,14 +94,14 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("Login")]
-        public async Task<IHttpActionResult> Post([FromBody]LoginModel dto)
+        public async Task<IActionResult> Post([FromBody]LoginModel dto)
         {
             try
             {
                 DataTable dt = new DataTable();
-                string systemName = ConfigurationManager.AppSettings["SystemName_ACL"];
-                string companyCode = ConfigurationManager.AppSettings["CompanyCode_ACL"];
-                string DatabaseType = ConfigurationManager.AppSettings["DBTYPE"];
+                string systemName = AppConfiguration.GetAppSetting("SystemName_ACL");
+                string companyCode = AppConfiguration.GetAppSetting("CompanyCode_ACL");
+                string DatabaseType = AppConfiguration.GetAppSetting("DBTYPE");
 
                 LoginRequest loginmodel = new LoginRequest();
                 loginmodel.LoginID = dto.LoginID;
@@ -114,7 +113,7 @@ namespace tms_acl_api.Controllers
                 ByteArrayContent clientbodystr = new StringContent(JsonConvert.SerializeObject(loginmodel), Encoding.UTF8, "application/json");
 
                 HttpClient client = new HttpClient();
-                HttpResponseMessage response = await client.PostAsync(ConfigurationManager.AppSettings["ACL_API"] + "/api/v1/login/login", clientbodystr);
+                HttpResponseMessage response = await client.PostAsync(AppConfiguration.GetAppSetting("ACL_API") + "/api/v1/login/login", clientbodystr);
 
                 ACL_UserObj obj = new ACL_UserObj();
                 if (response.IsSuccessStatusCode == true)
@@ -142,7 +141,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("RefreshToken")]
-        public async Task<IHttpActionResult> RefreshToken([FromBody]LoginJWTTokenRefreshModel dto)
+        public async Task<IActionResult> RefreshToken([FromBody]LoginJWTTokenRefreshModel dto)
         {
             DateTime _startDateTime = DateTime.Now;
             try
@@ -165,7 +164,7 @@ namespace tms_acl_api.Controllers
                 string newToken = JWTTokenMethod.createToken(dto.UserID);
                 string newRefreshToken = JWTTokenMethod.createRefreshToken();
 
-                _ = int.TryParse(ConfigurationManager.AppSettings["JWRefreshTokenExpiryInMinutes"].ToString(), out int _refreshTokenExpiryInMinutes);
+                _ = int.TryParse(AppConfiguration.GetAppSetting("JWRefreshTokenExpiryInMinutes").ToString(), out int _refreshTokenExpiryInMinutes);
                 int isAdded = await SQL.insertSQL("insert into ACL_JWT_TOKEN (JWT_TOKEN, JWT_REFRESH_TOKEN, JWT_REFRESH_TOKEN_EXPIRY) VALUES ('" + newToken + "','" + newRefreshToken + "','" + DateTime.Now.AddMinutes(_refreshTokenExpiryInMinutes).ToString("MM/dd/yyyy HH:mm:ss tt") + "')", CommandType.Text, null);
                 int isDeleted = await SQL.insertSQL("delete from ACL_JWT_TOKEN where JWT_TOKEN = '" + dto.JWT_TOKEN + "'", CommandType.Text, null);
 
@@ -192,7 +191,7 @@ namespace tms_acl_api.Controllers
 
         [HttpPost]
         [Route("RevokeToken")]
-        public async Task<IHttpActionResult> RevokeToken([FromBody]RevokeJWTTokenRefreshModel dto)
+        public async Task<IActionResult> RevokeToken([FromBody]RevokeJWTTokenRefreshModel dto)
         {
             DateTime _startDateTime = DateTime.Now;
             try
@@ -215,7 +214,7 @@ namespace tms_acl_api.Controllers
 
         [HttpGet]
         [Route("GetCompany/{pCompCode}")]
-        public async Task<IHttpActionResult> GetCompanyByCompCode(string pCompCode)
+        public async Task<IActionResult> GetCompanyByCompCode(string pCompCode)
         {
             try
             {
@@ -236,7 +235,7 @@ namespace tms_acl_api.Controllers
 
         [HttpPost]
         [Route("ChangePassword")]
-        public async Task<IHttpActionResult> ChangePassword(ChangePasswordModel dto)
+        public async Task<IActionResult> ChangePassword(ChangePasswordModel dto)
         {
             try
             {
@@ -286,7 +285,7 @@ namespace tms_acl_api.Controllers
 
         [HttpPost]
         [Route("ForgotPassword")]
-        public async Task<IHttpActionResult> ForgotPassword(ForgotPasswordModel dto)
+        public async Task<IActionResult> ForgotPassword(ForgotPasswordModel dto)
         {
             try
             {
@@ -317,7 +316,7 @@ namespace tms_acl_api.Controllers
 
         [HttpGet]
         [Route("RetrieveResourceByName/{pACLRoleID}/{pSystemName}")]
-        public async Task<IHttpActionResult> RetrieveResourceByName(string pACLRoleID, string pSystemName)
+        public async Task<IActionResult> RetrieveResourceByName(string pACLRoleID, string pSystemName)
         {
             try
             {
@@ -346,7 +345,7 @@ namespace tms_acl_api.Controllers
         [AllowAnonymous]
         [HttpGet]
         [Route("RetrieveResource/RoleName={pUserRole}/SystemName={pSystemName}/UserID={pUserID}/ParentID={pParentID}")]
-        public async Task<IHttpActionResult> RetrieveResource(string pUserRole, string pSystemName, string pUserID, int pParentID)
+        public async Task<IActionResult> RetrieveResource(string pUserRole, string pSystemName, string pUserID, int pParentID)
         {
             try
             {
@@ -376,7 +375,7 @@ namespace tms_acl_api.Controllers
         //RetrieveApplicationIDByName
         [HttpGet]
         [Route("RetrieveApplicationIDByName/{pName}")]
-        public async Task<IHttpActionResult> RetrieveApplicationIDByName(string pName)
+        public async Task<IActionResult> RetrieveApplicationIDByName(string pName)
         {
             try
             {
@@ -398,7 +397,7 @@ namespace tms_acl_api.Controllers
         //UserInfo
         [HttpGet]
         [Route("UserInfo/{pCompCode}/{pUserID}")]
-        public async Task<IHttpActionResult> UserInfo(string pCompCode, string pUserID)
+        public async Task<IActionResult> UserInfo(string pCompCode, string pUserID)
         {
             try
             {
@@ -419,7 +418,7 @@ namespace tms_acl_api.Controllers
 
         [HttpPost]
         [Route("Validate")]
-        public async Task<IHttpActionResult> Validate(LoginModel2 dto)
+        public async Task<IActionResult> Validate(LoginModel2 dto)
         {
             try
             {
@@ -441,7 +440,7 @@ namespace tms_acl_api.Controllers
 
         [HttpPost]
         [Route("ValidateWithCompany")]
-        public async Task<IHttpActionResult> ValidateWithCompany(LoginModel4 dto)
+        public async Task<IActionResult> ValidateWithCompany(LoginModel4 dto)
         {
             try
             {
@@ -463,7 +462,7 @@ namespace tms_acl_api.Controllers
 
         [HttpPost]
         [Route("ValidateWithRetrieveUsernCompany")]
-        public async Task<IHttpActionResult> ValidateWithRetrieveUsernCompany(LoginModel3 dto)
+        public async Task<IActionResult> ValidateWithRetrieveUsernCompany(LoginModel3 dto)
         {
             try
             {
@@ -499,7 +498,7 @@ namespace tms_acl_api.Controllers
 
         [HttpPost]
         [Route("GetResourceAccessControl")]
-        public async Task<IHttpActionResult> GetResourceAccessControl(RESOURCE_ACCESS_CHK_MODEL dto)
+        public async Task<IActionResult> GetResourceAccessControl(RESOURCE_ACCESS_CHK_MODEL dto)
         {
             try
             {
@@ -523,7 +522,7 @@ namespace tms_acl_api.Controllers
 
         [HttpPost]
         [Route("ACLUsageTracking")]
-        public async Task<IHttpActionResult> ACLUsageTracking(ACL_USAGE_TRACKING dto)
+        public async Task<IActionResult> ACLUsageTracking(ACL_USAGE_TRACKING dto)
         {
             try
             {

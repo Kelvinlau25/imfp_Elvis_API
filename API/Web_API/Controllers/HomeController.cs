@@ -1,18 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+using Microsoft.AspNetCore.Mvc;
 
 namespace tms_acl_api.Controllers
 {
-    public class HomeController : Controller
+    [ApiController]
+    [Route("api/[controller]")]
+    public class HomeController : ControllerBase
     {
-        public ActionResult Index()
+        [HttpGet]
+        public IActionResult Index()
         {
-            ViewBag.Title = "Home Page";
-
-            return View();
+            return Ok("API is running.");
         }
     }
 }

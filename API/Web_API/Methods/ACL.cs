@@ -1,20 +1,18 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Data;
-using System.Data.SqlClient;
-using System.Linq;
+using Microsoft.Data.SqlClient;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-using System.Web;
+using tms_acl_api.Infrastructure;
 using tms_acl_api.Models;
 
 namespace tms_acl_api.Methods
 {
     public class ACL
     {
-        public static string vConn = new Common()._SQLDMSConnectionString.ToString();
-        public static string vSystemName = ConfigurationManager.AppSettings["SystemName"].ToString();
+        public static string vConn => AppConfiguration.GetConnectionString("PFR_ACL_MVC");
+        public static string vSystemName => AppConfiguration.GetAppSetting("SystemName");
 
         public static async Task<DataTable> GetACLLoginCheck(string username, string pSystemName)
         {
